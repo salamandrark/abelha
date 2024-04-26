@@ -1,0 +1,13 @@
+* {margin: 0;
+padding:0;
+}
+.cabeçalho {
+   background-color: yellow;
+   display: flex;
+   justify-content: space-around;
+   padding: 24px 0;
+}
+
+.cabeçalho-abelha {
+    width: 80%;
+}
